@@ -9,8 +9,9 @@
 - Buenas prácticas
 - Y las personalidades múltiples de Freddy
 
-puedes ir y aprender tu misma 👉🏼  [Here](https://platzi.com/cursos/git-github/ "Here")
+Puedes ir y aprender tu misma 👉🏼  [Here](https://platzi.com/cursos/git-github/ "Here")
 
+- Agregado por mi para probar el Cherry-Picking
 
 Le añado una imagen bonita motivacional que me gustó de un medio que se llama [El CEO](http://elceo.com "El CEO")
 
