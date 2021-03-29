@@ -12,6 +12,8 @@
 Puedes ir y aprender tu misma 👉🏼  [Here](https://platzi.com/cursos/git-github/ "Here")
 
 - Agregado por mi para probar el Cherry-Picking
+- Otra linea que nos ayude a crear situacion
+- Tercera Linea didactica
 
 Le añado una imagen bonita motivacional que me gustó de un medio que se llama [El CEO](http://elceo.com "El CEO")
 
